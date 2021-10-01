@@ -11,3 +11,4 @@ while num > 0:
       else:
 	print(x, 'Is Not A Armstrong Number')
 
+echo "Armstrong Number : Number of n digits which are equal to sum of nth power of it's digits"
